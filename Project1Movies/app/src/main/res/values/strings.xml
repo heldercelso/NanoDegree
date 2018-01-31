@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Pop Movies</string>
+    <string name="movie_detail">Movie Detail</string>
+    <string name="poster_image">Poster Image</string>
+    <string name="year">Year</string>
+    <string name="rating">Rating</string>
+    <string name="synopsis">Synopsis</string>
+    <string name="movie_poster">Movie Poster</string>
+    <string name="sort_by_popularity">Sort by Popularity</string>
+    <string name="sort_by_average_rate">Sort by Top Rated</string>
+    <string name="some_error_occurred_check_your_internet_connection">Some error occurred. Check your internet connection.</string>
+</resources>
